@@ -82,7 +82,7 @@ $http_host = $_SERVER['HTTP_HOST'];
 $iconv_input_encoding = 'UTF-8';
 
 // date() format for file modification date
-$datetime_format = 'd.m.y H:i';
+$datetime_format = 'F j, Y, g:i a';
 
 // allowed file extensions for upload and rename
 // e.g. 'gif,png,jpg'
